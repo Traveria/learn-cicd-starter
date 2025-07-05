@@ -1,4 +1,4 @@
-![Build Status](https://github.com/Traveria/learn-cicd-starter/actions/workflows/ci/badge.svg)
+![Build Status](https://github.com/Traveria/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
