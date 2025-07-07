@@ -21,6 +21,7 @@ jobs:
       - name: get_api_key_tests
         run: go test ./... -cover
 
-    style: 
+  style:
+    steps:
       - name: check formatting
         run: test -z $(go fmt ./...)
